@@ -1,0 +1,6 @@
+# Ignore database and other local files
+smartlearn.db
+*.xlsx
+__pycache__/
+*.pyc
+.env
